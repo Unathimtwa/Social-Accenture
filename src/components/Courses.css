@@ -1,0 +1,34 @@
+.courses {
+    padding: 20px;
+    background-color: lightgrey; /* Light grey background */
+    text-align: center; /* Center align text */
+  }
+  
+  .course-container {
+    display: grid; /* Use grid layout */
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 10px; /* Space between cards */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .course-card {
+    position: relative; /* Position for title overlay */
+  }
+  
+  .course-card img {
+    width: 100%; /* Full width of the card */
+    height: 100vh; /* Full height of the viewport */
+    object-fit: cover; /* Cover the area while maintaining aspect ratio */
+  }
+  
+  .course-title {
+    position: absolute; /* Absolute positioning for title */
+    bottom: 10px; /* Position it at the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Adjust for centering */
+    color: white; /* White text color */
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    padding: 10px; /* Space around the text */
+    border-radius: 5px; /* Slightly rounded corners for the title */
+  }
+  

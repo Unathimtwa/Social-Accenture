@@ -1,0 +1,18 @@
+.home {
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    color: white; /* Text color */
+    text-align: center; /* Center align text */
+    background-image: url('../Assets/images/Homepage.jpg'); /* Update path to your image */
+    background-size: cover; /* Cover the entire area */
+    background-position: center; /* Center the background image */
+  }
+  
+  .welcome-text {
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent background for readability */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  

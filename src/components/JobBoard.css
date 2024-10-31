@@ -1,0 +1,41 @@
+.job-board {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white for readability */
+    border-radius: 5px; /* Rounded corners */
+    background-size: cover; /* Cover the background */
+    background-position: center; /* Center the background */
+    display: flex; /* Flexbox for layout */
+    flex-direction: column; /* Stack elements vertically */
+  }
+  
+  .filters {
+    display: flex; /* Align filters in a row */
+    justify-content: flex-end; /* Align filters to the right */
+    margin-bottom: 20px;
+    background-color: transparent; /* No background for filters */
+  }
+  
+  .filters label {
+    margin-left: 20px; /* Space between labels */
+  }
+  
+  .job-category {
+    margin-bottom: 20px; /* Space between categories */
+    padding: 10px;
+    border-radius: 5px; /* Rounded corners */
+    background-color: lightblue; /* Light blue background for categories */
+  }
+  
+  .job-category h2 {
+    color: #343a40; /* Dark text color */
+  }
+  
+  .job-category ul {
+    list-style-type: none; /* Remove default list style */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .job-category li {
+    margin: 5px 0; /* Space between job listings */
+  }
+  

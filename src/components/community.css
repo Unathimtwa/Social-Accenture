@@ -1,0 +1,26 @@
+.community {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background color */
+  }
+  
+  .community h1 {
+    color: #343a40; /* Dark text color */
+  }
+  
+  .forums, .resources, .testimonials {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffffff; /* White background for sections */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Light shadow for depth */
+  }
+  
+  .forums h2, .resources h2, .testimonials h2 {
+    color: #007bff; /* Blue color for section headings */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove default list style */
+    padding: 0; /* Remove default padding */
+  }
+  

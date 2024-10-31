@@ -1,0 +1,41 @@
+.pricing {
+    padding: 20px;
+    background-color: #E6E6FA; /* Light purple background color */
+    text-align: center; /* Center the text */
+  }
+  
+  .plan-container {
+    display: flex; /* Use flexbox for side-by-side layout */
+    justify-content: space-around; /* Space out the plans evenly */
+    flex-wrap: wrap; /* Allow wrapping to new lines if needed */
+  }
+  
+  .plan {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #D3D3D3; /* Light grey background for each plan */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Light shadow for depth */
+    flex: 1; /* Allow plans to grow equally */
+    min-width: 200px; /* Minimum width for each plan */
+    max-width: 300px; /* Maximum width for each plan */
+  }
+  
+  .plan h2 {
+    color: #007bff; /* Blue color for plan titles */
+  }
+  
+  .plan button {
+    background-color: #007bff; /* Primary button color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; /* Add space above the button */
+  }
+  
+  .plan button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
