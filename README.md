@@ -10,9 +10,11 @@ The Learning Platform is designed to provide a comprehensive educational experie
 Users can create accounts, log in, and access personalized content.
 ### Courses: The platform showcases various courses organized by categories, complete with images and descriptions.
 ### Job Board: A dedicated job board allows users to explore job opportunities across different categories, with filters for job type, location, and experience level.
-###Community Engagement: Users can interact within community forums, fostering collaboration and support.
-### Pricing Plans: Clear pricing plans outline subscription options for users, ensuring transparency.
-Future Directions with Blockchain
+### Community Engagement: 
+Users can interact within community forums, fostering collaboration and support.
+### Pricing Plans: 
+Clear pricing plans outline subscription options for users, ensuring transparency.
+### Future Directions with Blockchain
 The project aims to integrate blockchain technology to enhance functionalities and user experience. This transition will involve:
 
 ## Smart Contracts: 
