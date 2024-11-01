@@ -8,8 +8,10 @@ The Learning Platform is designed to provide a comprehensive educational experie
 ### User Authentication: 
 
 Users can create accounts, log in, and access personalized content.
-### Courses: The platform showcases various courses organized by categories, complete with images and descriptions.
-### Job Board: A dedicated job board allows users to explore job opportunities across different categories, with filters for job type, location, and experience level.
+### Courses:
+The platform showcases various courses organized by categories, complete with images and descriptions.
+### Job Board:
+A dedicated job board allows users to explore job opportunities across different categories, with filters for job type, location, and experience level.
 ### Community Engagement: 
 Users can interact within community forums, fostering collaboration and support.
 ### Pricing Plans: 
