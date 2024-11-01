@@ -1,26 +1,27 @@
-Project Summary
-Project Overview
+#Project Summary
+
+## Project Overview
 The Learning Platform is designed to provide a comprehensive educational experience, catering to students seeking knowledge in various fields, including Web3, AI, Cybersecurity, and Digital Marketing. The platform is built using React, featuring a user-friendly interface with essential components such as a course catalog, job board, community forums, and pricing plans. Users can sign up, log in, and navigate through different sections seamlessly, enhancing their learning journey.
 
-### Current Functionalities
+## Current Functionalities
 
 ### User Authentication: 
 
 Users can create accounts, log in, and access personalized content.
-# Courses: The platform showcases various courses organized by categories, complete with images and descriptions.
-# Job Board: A dedicated job board allows users to explore job opportunities across different categories, with filters for job type, location, and experience level.
-#Community Engagement: Users can interact within community forums, fostering collaboration and support.
-# Pricing Plans: Clear pricing plans outline subscription options for users, ensuring transparency.
+### Courses: The platform showcases various courses organized by categories, complete with images and descriptions.
+### Job Board: A dedicated job board allows users to explore job opportunities across different categories, with filters for job type, location, and experience level.
+###Community Engagement: Users can interact within community forums, fostering collaboration and support.
+### Pricing Plans: Clear pricing plans outline subscription options for users, ensuring transparency.
 Future Directions with Blockchain
 The project aims to integrate blockchain technology to enhance functionalities and user experience. This transition will involve:
 
-# Smart Contracts: 
+## Smart Contracts: 
 Utilizing NEAR Protocol to implement smart contracts for secure and transparent transactions.
-# Decentralized Storage: 
+### Decentralized Storage: 
 Adopting decentralized storage solutions to ensure user data is stored securely and privately, promoting self-sovereignty.
-# Tokenization: 
+### Tokenization: 
 Implementing a token system for incentivizing users, allowing them to earn rewards for completing courses and engaging with the community.
-# Security Features
+### Security Features
 To ensure the security of user data and transactions, the following measures will be implemented:
 
 Blockchain Encryption: All transactions and sensitive data will be encrypted on the blockchain, providing an immutable record.
